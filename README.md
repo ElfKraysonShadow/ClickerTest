@@ -1,2 +1,2 @@
 # ClickerTest
-Simple clicker on Unity
+Simple clicker for Android on Unity
